@@ -51,3 +51,8 @@ Expected Output:
 
     1 3 N
     5 1 E
+    
+ # Install and Run
+ 
+ - build the project by running mvn clean install
+ - run the app by java -jar <location_of_jar_file> input_fil.txt
