@@ -54,5 +54,9 @@ Expected Output:
     
  # Install and Run
  
- - build the project by running mvn clean install
- - run the app by java -jar <location_of_jar_file> input_fil.txt
+ ```
+ mvn clean install
+ 
+ java -jar <location_of_jar_file>/MarsRover-1.0-SNAPSHOT.jar input_fil.txt
+ ```
+
